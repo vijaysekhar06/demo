@@ -22,7 +22,7 @@ public class Springbootdemo1Application {
 
 	public static void main(String[] args) {
 		logger.info("main method...................................");
-System.out.println("main method ***********####################");
+System.out.println("main method ##################");
 		SpringApplication.run(Springbootdemo1Application.class, args);
 	}
 
